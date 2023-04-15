@@ -1,0 +1,10 @@
+.para {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.blue-text {
+    color: rgb(13, 93, 252);
+}
+.red-text {
+    color: rgb(252, 13, 37);
+}
