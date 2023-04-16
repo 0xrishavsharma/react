@@ -2,7 +2,7 @@ import React, { ReactNode, useState, useReducer } from "react";
 
 const initialState = {
     count: 0,
-    text: "hello",
+    text: "",
 };
 
 const enum ACTION_TYPE {
